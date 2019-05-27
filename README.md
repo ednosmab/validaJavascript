@@ -1,0 +1,3 @@
+Pela necessidade de validar valores para um sistema de cálculo oftalmito, utilizei regex em javascript para modelar os respectivos valores, para que no sistema que está sendo feito em PHP possa ser executado sem a preocupação de validá-los no próprio PHP
+Por enquanto esta foi a primeira tentativa válida de resolver o problema
+Para testar essa solução, copie todo o conteúdo deste repositório para o servidor web
